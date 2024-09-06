@@ -1,6 +1,8 @@
 # GithubFoundations
 *Un repositorio para aguardar los contenidos estudiados para obtener la certificación de Github foundations.*
 
+Un [enlace a la lista de emojis de Github](https://github.com/ikatyang/emoji-cheat-sheet).
+
 Aquí se pone en práctica lo referente al lenguaje Markdown:
 
 # Encabezado de nivel 1
